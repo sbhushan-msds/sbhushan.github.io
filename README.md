@@ -9,6 +9,7 @@
 ### Work Experience
 - Lead Analyst, Business Planning and Analysis, American Bureau of Shipping (May 2023 - Current)
 - Engineering, Consultant and Business Development Roles, American Bureau of Shipping (October 2008 - May 2023)
+- Marine Engineer Officer (December 2005 - December 2005)
 
 ### Project Portfolio
 1. Python code to look up weather data by US City or zip code
