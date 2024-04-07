@@ -24,26 +24,28 @@
     #### Repo Link - https://github.com/sbhushan-msds/RProg_Heart_DiseasePredic.git
 
 3. Python - Diabetes Prection using ThinkStats library
-  - <TBD>
+   - TBD
 
 
 4. Python - Detect progression of covid cases in India in 2020
-   - <TBD>
+   - TBD
 
 5. Python - Patient admission decision frameowrk development for hospitals
-   - <TBD>
+   - TBD
 
 6. Python - Heart disease prediction using classification modeling techniques
-   - <TBD>
+   - TBD
 
 7. Python - Airline Travel Safety Assessment using PowerBI visualizations
-   - <TBD>
+   - TBD
      
 8. Cloud computing -  Hotel booking data analysis using HDFS and Apache Hive
-   - <TBD>
+   - TBD
 
-10. Python - Credir card fraud detection
-    - <TBD>
+9. Python - Credit card fraud detection
+    - TBD
+  
+10. TBD as part of DSC 680
  
 
 
