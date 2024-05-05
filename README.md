@@ -1,5 +1,3 @@
-# Shashi Bhushan
-
 ## About
 Shashi Bhushan brings a wealth of experience from the energy markets. Currently employed at the American Bureau of Shipping (ABS) in their Business Planning and Analysis department as Lead Analyst, Shashi specializes in data analysis and demand forecasting using R programming. His unique blend of engineering, financial acumen, and data science skills (including Python and R programming) positions him to create innovative machine learning solutions for the industry.
 
