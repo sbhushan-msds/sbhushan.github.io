@@ -12,9 +12,9 @@ Shashi’s passion for combining energy market knowledge with data science skill
 ** B.S. Marine Engineering, Marine Engineering & Research Institute, Kolkata, India (2002)
 
 ## Work Experience
-- Lead Analyst, Business Planning and Analysis, American Bureau of Shipping (May 2023 - Current)
-- Engineering, Consultant and Business Development Roles, American Bureau of Shipping (October 2008 - May 2023)
-- Marine Engineer Officer (December 2002 - December 2005)
+** Lead Analyst, Business Planning and Analysis, American Bureau of Shipping (May 2023 - Current)
+** Engineering, Consultant and Business Development Roles, American Bureau of Shipping (October 2008 - May 2023)
+** Marine Engineer Officer (December 2002 - December 2005)
 
 ## Project Portfolio
 1. Python code to look up weather data by US City or zip code
@@ -81,8 +81,8 @@ Shashi’s passion for combining energy market knowledge with data science skill
    ### Repo Link - https://github.com/sbhushan-msds/Loan_default.git      
 
    ## Publication
-   - Bhushan, S., Blumberg, A., and Georgas, N. (2009), Comparison of NYHOPS hydrodynamic model SST predictions with satellite observations in the Hudson River tidal, estuarine, and coastal plume region in Proceedings of the Eleventh International Conference on 
-     Estuarine and Coastal Modeling; Seattle, WA, American Society of Civil Engineers.
+   Bhushan, S., Blumberg, A., and Georgas, N. (2009), Comparison of NYHOPS hydrodynamic model SST predictions with satellite observations in the Hudson River tidal, estuarine, and coastal plume region in Proceedings of the Eleventh International Conference on 
+   Estuarine and Coastal Modeling; Seattle, WA, American Society of Civil Engineers.
      
 ## Contact
 Email - sbhushan6@gmail.com
