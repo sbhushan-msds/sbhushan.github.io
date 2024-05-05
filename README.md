@@ -6,10 +6,10 @@ In his previous role, Shashi demonstrated exceptional leadership by spearheading
 Shashi’s passion for combining energy market knowledge with data science skills makes him a valuable asset in shaping the future of the industry. His dedication to excellence and effective communication sets him apart in this dynamic field.
 
 ## Education
-- M.S. Data Science, Bellevue University, Bellevue, NE (2024)
-- M.B.A., C.T. Bauer College of Business, University of Houston, Houston, TX (2015)
-- M.S. Maritime Systems, Stevens Institute of Technology, Hoboken, N.J. (2009)
-- B.S. Marine Engineering, Marine Engineering & Research Institute, Kolkata, India (2002)
+** M.S. Data Science, Bellevue University, Bellevue, NE (2024)
+** M.B.A., C.T. Bauer College of Business, University of Houston, Houston, TX (2015)
+** M.S. Maritime Systems, Stevens Institute of Technology, Hoboken, N.J. (2009)
+** B.S. Marine Engineering, Marine Engineering & Research Institute, Kolkata, India (2002)
 
 ## Work Experience
 - Lead Analyst, Business Planning and Analysis, American Bureau of Shipping (May 2023 - Current)
@@ -79,7 +79,11 @@ Shashi’s passion for combining energy market knowledge with data science skill
     - Skills - Libraries (pandas, numpy, matplotlib, seaborn, sklearn.model_selection, sklearn.metrics, sklearn.naive_bayes),application, and report preparation and presentation.
 
    ### Repo Link - https://github.com/sbhushan-msds/Loan_default.git      
-  
+
+   ## Publication
+   - Bhushan, S., Blumberg, A., and Georgas, N. (2009), Comparison of NYHOPS hydrodynamic model SST predictions with satellite observations in the Hudson River tidal, estuarine, and coastal plume region in Proceedings of the Eleventh International Conference on 
+     Estuarine and Coastal Modeling; Seattle, WA, American Society of Civil Engineers.
+     
 ## Contact
 Email - sbhushan6@gmail.com
 
