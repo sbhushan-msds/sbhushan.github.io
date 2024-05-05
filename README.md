@@ -21,67 +21,65 @@ Shashi’s passion for combining energy market knowledge with data science skill
    - Performs api call, allows loop up by zip code or city name, allows multiple look ups, provides current temperature, high temperature, low temperature, pressure, and humidity information.
    - Skills - Creative use of functions for block programing, using appropriate libraries, validation, and error handling.
 
-    #### Repo Link - https://github.com/sbhushan-msds/WeatherApp.git
+   ### Repo Link - https://github.com/sbhushan-msds/WeatherApp.git
    
 2. R Programming -  Identify parameters to predict risk of heart attack utilizing existing data  set from different hospital systems
    - Reads csv data, utilizes libraries , performs Eploratory Data analysis, creates & interprets linear models, prepares R Markdown report.
    - Skills - Statistics, Libraries (lm.beta, ggplot2, dplyr), application, Generalized Linear Modeling, R markdown reporting.
 
-    #### Repo Link - https://github.com/sbhushan-msds/RProg_Heart_DiseasePredic.git
+   ### Repo Link - https://github.com/sbhushan-msds/RProg_Heart_DiseasePredic.git
 
 3. Python - Diabetes Prection using ThinkStats library
    - Reads csv data, utilizes thinkstats libraries , identifies outliers, performs Eploratory Data analysis, calculates correlation and covariance, performs hypothesis tests, creates & interprets logistic 
      regression model.
    - Skills - Statistics, Libraries (pandas, numpy, thinkstats2, thinkplot), application, Generalized Linear Modeling, report preparation & presentation.
 
-    #### Repo Link - https://github.com/sbhushan-msds/RProg_Heart_DiseasePredic.git
+   ### Repo Link - https://github.com/sbhushan-msds/RProg_Heart_DiseasePredic.git
 
 4. Python - Detect reasons for progression of covid cases in India in 2020
    - Reads csv data, scraps html data, pulls JSON data from an API, performs data wrangling, merges collected data and stores them in a data base and creates visualizations.
    - Skills - Flat file, html, and JSON (multi level -  dealt by converting into a dictionary of tuples and then stacking into a data frame) data wrangling,  Libraries (pandas, requests, json, sqlite3).
 
-    ### Repo Link - https://github.com/sbhushan-msds/Covid_Progression.git
+   ### Repo Link - https://github.com/sbhushan-msds/Covid_Progression.git
 
 5. Python - Patient admission decision frameowrk development for hospitals
    - Reads csv data, performs exploratory data analysis, features selection, data preparation, creates & interprets linear models.
    - Skills - Libraries (pandas, matplotlib, seaborn, sklearn.model_selection, sklearn.linear_model, sklearn.preprocessing, sklearn.metrics), application, Generalized Linear Modeling, and report preparation.
   
-    ### Repo Link - https://github.com/sbhushan-msds/Hospital_Frameowrk.git
+   ### Repo Link - https://github.com/sbhushan-msds/Hospital_Frameowrk.git
 
 6. Python - Heart disease prediction using classification modeling techniques
    - Reads csv data, performs exploratory data analysis, feature engineering, data preparation, creates & interprets classification models.
    - Skills - Libraries (pandas, numpy, sklearn.feature_selection, sklearn.model_selection, sklearn.linear_model, sklearn.preprocessing, sklearn.metrics), application, Generalized Linear Modeling, and report 
      preparation and presentation.
 
-    ### Repo Link - https://github.com/sbhushan-msds/Python_Classificationmodels.git
+   ### Repo Link - https://github.com/sbhushan-msds/Python_Classificationmodels.git
 
 7. Airline Travel Safety Assessment
    - By various visualization and presentation tools available
    - Skills - PowerBI visualizations, presentation,  blog writing and hosting, infographic preparation, video presentation
   
-    ### Repo Link - https://github.com/sbhushan-msds/Airline_Travel.git
+   ### Repo Link - https://github.com/sbhushan-msds/Airline_Travel.git
      
 8. Cloud computing -  Hotel booking data analysis using HDFS and Apache Hive
    -  Analyze and visualize hotel booking data using bigdata concepts with an aim to identify patterns and trends.
    -  Skills - Hadoop Distributed File System (HDFS) and Apache Hive
 
-    ### Repo Link - https://github.com/sbhushan-msds/Cloud_Computing.git
+   ### Repo Link - https://github.com/sbhushan-msds/Cloud_Computing.git
 
 9. Python - Credit card fraud detection modeling
    - Reads csv data, performs exploratory data analysis, feature engineering, data preparation, creates & interprets classification models.
    - Skills - Libraries (pandas, numpy, datetime, seaborn, matplotlib, sklearn.preprocessing (label encoding), sklearn.model_selection, sklearn.neighbors, sklearn.linear_model, sklearn.metrics, 
      statsmodels.stats.proportion (z test)), application, and report preparation and presentation.
 
-    ### Repo Link - https://github.com/sbhushan-msds/Credit_Card_Fraud.git
+   ### Repo Link - https://github.com/sbhushan-msds/Credit_Card_Fraud.git
      
   10. Python - Mortgage loan default detection modeling
     - Reads csv data, performs exploratory data analysis, feature engineering, data preparation, creates & interprets classification models.
     - Skills - Libraries (pandas, numpy, matplotlib, seaborn, sklearn.model_selection, sklearn.metrics, sklearn.naive_bayes),application, and report preparation and presentation.
 
-   ### Repo Link - https://github.com/sbhushan-msds/Loan_default.git
-   
-   
-    
+   ### Repo Link - https://github.com/sbhushan-msds/Loan_default.git      
+  
 ## Contact
 Email - sbhushan6@gmail.com
 
