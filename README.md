@@ -78,10 +78,10 @@ Shashi’s passion for combining energy market knowledge with data science skill
       - Reads csv data, performs exploratory data analysis, feature engineering, data preparation, creates & interprets classification models.
       - Skills - Libraries (pandas, numpy, matplotlib, seaborn, sklearn.model_selection, sklearn.metrics, sklearn.naive_bayes),application, and report preparation and presentation.
 
-   ### Repo Link - https://github.com/sbhushan-msds/Loan_default.git      
+   ### Repo Link - https://github.com/sbhushan-msds/Loan_default.git  
 
    ## Publication
-   Bhushan, S., Blumberg, A., and Georgas, N. (2009), Comparison of NYHOPS hydrodynamic model SST predictions with satellite observations in the Hudson River tidal, estuarine, and coastal plume region in Proceedings of the Eleventh International Conference on 
+   - Bhushan, S., Blumberg, A., and Georgas, N. (2009), Comparison of NYHOPS hydrodynamic model SST predictions with satellite observations in the Hudson River tidal, estuarine, and coastal plume region in Proceedings of the Eleventh International Conference on 
    Estuarine and Coastal Modeling; Seattle, WA, American Society of Civil Engineers.
      
 ## Contact
