@@ -74,7 +74,7 @@ Shashi’s passion for combining energy market knowledge with data science skill
 
    ### Repo Link - https://github.com/sbhushan-msds/Credit_Card_Fraud.git
      
-  10. Python - Mortgage loan default detection modeling
+10. Python - Mortgage loan default detection modeling
       - Reads csv data, performs exploratory data analysis, feature engineering, data preparation, creates & interprets classification models.
       - Skills - Libraries (pandas, numpy, matplotlib, seaborn, sklearn.model_selection, sklearn.metrics, sklearn.naive_bayes),application, and report preparation and presentation.
 
